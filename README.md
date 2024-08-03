@@ -11,3 +11,4 @@
 - 3: Manipulate the dates given by using operator overloading.
 
 # Project-Summary
+- Overall, this project is a prime example of utilizing object-oriented techniques in C++ to leverage code reusability for fundamental tasks such as date handling. 
