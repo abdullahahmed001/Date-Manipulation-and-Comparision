@@ -6,3 +6,8 @@
 
 # Code-Overview
 - # Initialization-and-Manipulation
+- 1: Create Date objects in C++ by using a date class
+- 2: Set the values for each date by passing day, month, and year as arguments into each of the setter functions
+- 3: Manipulate the dates given by using operator overloading.
+
+# Project-Summary
